@@ -15,7 +15,7 @@
 <br />
 
 
-I have been working in IT since 2019. An experienced professional who started my career in IT as a technical support specialist and successfully advanced to the position of deployment engineer. I have a strong desire to develop in the direction of a DevOps engineer and an active interest in artificial intelligence in my free time. I combine technical skills with a willingness to learn new technologies, making me an ideal candidate for various IT projects and tasks.
+Меня зовут Илья. Работаю в IT c 2019 года. Опытный специалист, который начал свою карьеру в IT с технической поддержки и успешно продвинулся до должности инженера внедрения. Ярко выраженное стремление к развитию в направлении DevOps инженера и активный интерес к искусственному интеллекту в свободное время. Комбинирую технические навыки с желанием изучать новые технологии, что делает меня идеальным кандидатом для разнообразных проектов и задач в области IT.
 
 <br />
 
